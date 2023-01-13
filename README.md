@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
   - C
   - C++
-  - Go
+  - Python
   - Bash
   - Javascript ( Node.js etc )
 - 📫 How to reach me ...
